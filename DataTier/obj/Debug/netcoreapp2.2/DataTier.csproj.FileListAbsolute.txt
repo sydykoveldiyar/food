@@ -1,0 +1,12 @@
+C:\Frontend\practice\CRM\CRM_Food\DataTier\bin\Debug\netcoreapp2.2\DataTier.deps.json
+C:\Frontend\practice\CRM\CRM_Food\DataTier\bin\Debug\netcoreapp2.2\DataTier.runtimeconfig.json
+C:\Frontend\practice\CRM\CRM_Food\DataTier\bin\Debug\netcoreapp2.2\DataTier.runtimeconfig.dev.json
+C:\Frontend\practice\CRM\CRM_Food\DataTier\bin\Debug\netcoreapp2.2\DataTier.dll
+C:\Frontend\practice\CRM\CRM_Food\DataTier\bin\Debug\netcoreapp2.2\DataTier.pdb
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.csprojAssemblyReference.cache
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.AssemblyInfoInputs.cache
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.AssemblyInfo.cs
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.csproj.CoreCompileInputs.cache
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.dll
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.pdb
+C:\Frontend\practice\CRM\CRM_Food\DataTier\obj\Debug\netcoreapp2.2\DataTier.genruntimeconfig.cache
